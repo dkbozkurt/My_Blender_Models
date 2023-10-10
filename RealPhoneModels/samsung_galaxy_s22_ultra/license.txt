@@ -1,0 +1,11 @@
+Model Information:
+* title:	Samsung Galaxy S22 Ultra
+* source:	https://sketchfab.com/3d-models/samsung-galaxy-s22-ultra-a95eec5181a24bcd8a8452df50b29f3a
+* author:	DatSketch (https://sketchfab.com/DatSketch)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Samsung Galaxy S22 Ultra" (https://sketchfab.com/3d-models/samsung-galaxy-s22-ultra-a95eec5181a24bcd8a8452df50b29f3a) by DatSketch (https://sketchfab.com/DatSketch) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
